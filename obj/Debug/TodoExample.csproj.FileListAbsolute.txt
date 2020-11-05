@@ -1,0 +1,7 @@
+C:\CodeProjects\TodoExample\bin\Debug\TodoExample.exe.config
+C:\CodeProjects\TodoExample\bin\Debug\TodoExample.exe
+C:\CodeProjects\TodoExample\bin\Debug\TodoExample.pdb
+C:\CodeProjects\TodoExample\obj\Debug\TodoExample.csprojAssemblyReference.cache
+C:\CodeProjects\TodoExample\obj\Debug\TodoExample.exe
+C:\CodeProjects\TodoExample\obj\Debug\TodoExample.pdb
+C:\CodeProjects\TodoExample\obj\Debug\TodoExample.csproj.CoreCompileInputs.cache
